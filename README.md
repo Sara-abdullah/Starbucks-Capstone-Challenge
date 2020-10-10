@@ -5,7 +5,10 @@ Udacity Data Scientist Nanodegree Capstone Project - Analyze Starbucks Capstone 
 There is only jupyter notebook available here to showcase work related to the predictions. Markdown cells were used to assist in walking through the thought process for individual steps. This file that runs the necessary code to obtain the final model used to predict successful transaction. Input data has been clearly marked in the notebook.
 
 # Problem Statement
-The problem I chose to solve was building a model that predicts whether a customer will respond to an offer. 
+The problem statements I am trying to answer are here are:
+
+What are the distributions of gender, age, and income of customers in general?
+What are the distributions offer types alone and based on gender, age, and income of customers that completed the offers? 
 
 # Results
 The main findings of the code can be found at the post available here https://medium.com/@sarahalkohadir/starbucks-capstone-challenge-e4d3209e4fb3 
