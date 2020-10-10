@@ -34,6 +34,12 @@ To be able to run and view this project. It's recommended to have the latest ver
 - NumPy
 - datetime
 
+# Results
+The main findings of the code can be found at the post available here https://medium.com/@sarahalkohadir/starbucks-capstone-challenge-e4d3209e4fb3 
+
+# Improvements
+To make our results even better, I feel information about customers was limited we only had just age, gender, and income. To find demographic groups respond best to offers, it would better to have more features of the customers.
+
 # Conclusion
 we upload the selected data sets, and then we clean and explore the data.
 Then it follows this by creating a dataset that consolidates all the required information into one masterpiece and visualizes it in a bar chart for each demographic attribute and compares it with results for different types of offerings.
@@ -41,9 +47,6 @@ after analyzing the data, I found the following:
 BOGO offers have are more popular as higher completing offers counts and follows Discount offer so you might Starbucks might want to send focus on sending offers of these types.
 Males have more offers to complete, so Starbucks may want to send more offers to them.
 The elderly age category has a higher count in completing offers so Starbucks might want to send more offers to them.
-
-# Results
-The main findings of the code can be found at the post available here https://medium.com/@sarahalkohadir/starbucks-capstone-challenge-e4d3209e4fb3 
 
 # Licensing, Authors, Acknowledgements
 Must give credit to Udacity for the data. You can find the Licensing for the data and other descriptive information at the Udacity.
