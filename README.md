@@ -27,6 +27,12 @@ The problem statements I am trying to answer are here are:
 What are the distributions of gender, age, and income of customers in general?
 What are the distributions offer types alone and based on gender, age, and income of customers that completed the offers? 
 
+# Metrics
+Create a master dataset that takes the relevant parameters from the Clean Edition as a baseline and joining with :
+"Cleaned Profile" (using Customer ID as a common key variable) to get customers' demographic information, such as age, gender, income.
+"Cleaned Portfolio" (using Offer ID as the main joining variable) to get offers related information, such as offer type, channels and etc.
+As customers' demographic information i.e. age and income are captured in actual value and it's not feasible to analyze based on this continuous numeric value. Therefore, binning is perform on these variables to convert it into a set of discrete buckets for further analysis.
+
 # Results
 The main findings of the code can be found at the post available here https://medium.com/@sarahalkohadir/starbucks-capstone-challenge-e4d3209e4fb3 
 
