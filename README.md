@@ -4,6 +4,23 @@ Udacity Data Scientist Nanodegree Capstone Project - Analyze Starbucks Capstone 
 # File Descriptions
 There is only jupyter notebook available here to showcase work related to the predictions. Markdown cells were used to assist in walking through the thought process for individual steps. This file that runs the necessary code to obtain the final model used to predict successful transaction. Input data has been clearly marked in the notebook.
 
+The data is contained in three files:
+- portfolio.json - containing offer ids and meta data about each offer (duration, type, etc.)
+- profile.json - demographic data for each customer
+- transcript.json - records for transactions, offers received, offers viewed, and offers completed
+
+# Installation
+To be able to run and view this project. It's recommended to have the latest versions of the followings:
+
+- Python 3
+- Jupyter Notebook
+- Pandas
+- Matplotlib
+- sklearn
+- Seaborn
+- NumPy
+- datetime
+
 # Problem Statement
 The problem statements I am trying to answer are here are:
 
